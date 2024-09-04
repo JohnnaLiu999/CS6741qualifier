@@ -2,11 +2,11 @@
 
 Best performance checkpoints:
 
-finetune: bs_16_lr_3e-4_wd_0_epoch_10
+finetune: bs_16_lr_3e-4_wd_0_epoch_10: https://huggingface.co/JohnnaLiu/CS6741qualifier/resolve/main/ft_experiments/bs_64_lr_3e-4_wd_0_epoch_10/best_model.pt
 
-scratch: bs_16_lr_3e-4_wd_0_epoch_10
+scratch: bs_16_lr_3e-4_wd_0_epoch_10: https://huggingface.co/JohnnaLiu/CS6741qualifier/resolve/main/scr_experiments/bs_16_lr_3e-4_wd_0_epoch_10/best_model.pt
 
-[Pending Huggingface Uploading Succession for links]
+Other checkpoints (bs16/32/128, lr 3e-4/3e-5, epoch 10/20/30/50): https://huggingface.co/JohnnaLiu/CS6741qualifier/
 
 
 
