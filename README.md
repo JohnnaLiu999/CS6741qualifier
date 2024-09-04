@@ -1,4 +1,4 @@
-## Huggingface checkpoints
+# Huggingface checkpoints
 
 Best performance checkpoints:
 
@@ -7,6 +7,8 @@ finetune: bs_16_lr_3e-4_wd_0_epoch_10
 scratch: bs_16_lr_3e-4_wd_0_epoch_10
 
 [Pending Huggingface Uploading Succession for links]
+
+
 
 
 # Assignment 4
