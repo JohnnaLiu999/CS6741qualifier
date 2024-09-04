@@ -1,3 +1,11 @@
+## Huggingface checkpoints
+
+Best performance checkpoints:
+finetune: bs_16_lr_3e-4_wd_0_epoch_10
+scratch: bs_16_lr_3e-4_wd_0_epoch_10
+[Pending Huggingface Uploading Succession]
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bV_AQ86u)
 # Assignment 4
 
